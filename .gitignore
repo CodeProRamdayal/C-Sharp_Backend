@@ -5,7 +5,7 @@
 *.userosscache
 *.sln.docstates
 
-# Build output
+# .NET build output
 bin/
 obj/
 
